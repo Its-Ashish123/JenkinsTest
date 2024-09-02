@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\",
+  "WorkspaceRootPath": "C:\\Users\\AshishShukla\\Desktop\\Tasks\\Day28\\MyConsoleAppSol\\MyConsoleAppSol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\kfayazuddin\\mylearnings\\myconsoleappsol\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\ashishshukla\\desktop\\tasks\\day28\\myconsoleappsol\\myconsoleappsol\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,14 +20,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AshishShukla\\Desktop\\Tasks\\Day28\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\AshishShukla\\Desktop\\Tasks\\Day28\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAUwCUAAAAJAAAA",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T05:31:26.361Z",
+              "WhenOpened": "2024-09-02T04:24:08.715Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
